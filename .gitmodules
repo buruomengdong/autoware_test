@@ -1,3 +1,6 @@
 [submodule "sudo_repo"]
 	path = sudo_repo
 	url = git@github.com:buruomengdong/zmw_repos.git
+[submodule "core/autoware_msgs"]
+	path = core/autoware_msgs
+	url = git@github.com:buruomengdong/autoware_msgs.git
