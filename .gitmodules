@@ -1,0 +1,3 @@
+[submodule "sudo_repo"]
+	path = sudo_repo
+	url = git@github.com:buruomengdong/zmw_repos.git
